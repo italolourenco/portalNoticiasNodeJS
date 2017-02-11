@@ -23,6 +23,6 @@ Criação de um portal de notícias utilizando NodeJS e alguns de seus módulos 
 ### 6)Body-parser (Middleware)
 	->Para instalar "npm install body-parser --save"
 
-### 7)express-validator (Modulo para validar as informações de formularios)
+### 7)Express-validator (Modulo para validar as informações de formularios)
 	->Para instalar "npm install express-validator --save"
 
